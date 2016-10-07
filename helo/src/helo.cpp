@@ -12,5 +12,9 @@ int main() {
 	sum=a+b;
 	cout << sum << endl;
 
+	int kiv = 0;
+	kiv = a - b;
+	cout << kiv << endl; //The cake is a lie
+
 	return 0;
 }
