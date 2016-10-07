@@ -10,7 +10,7 @@ int main() {
 
 	int sum = 0;
 	sum=a+b;
-	cout << "SUM: " + sum << endl;
+	cout << sum << endl;
 
 	return 0;
 }
