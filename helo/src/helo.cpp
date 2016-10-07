@@ -12,5 +12,9 @@ int main() {
 	sum=a+b;
 	cout << sum << endl;
 
+	int sum = 1;
+	sum = a * b;
+	cout << sum << endl;
+
 	return 0;
 }
