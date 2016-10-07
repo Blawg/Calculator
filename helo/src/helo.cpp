@@ -12,9 +12,15 @@ int main() {
 	sum=a+b;
 	cout << sum << endl;
 
+<<<<<<< HEAD
 	int kiv = 0;
 	kiv = a - b;
 	cout << kiv << endl; //The cake is a lie
+=======
+	int sum = 1;
+	sum = a * b;
+	cout << sum << endl;
+>>>>>>> origin/master
 
 	return 0;
 }
